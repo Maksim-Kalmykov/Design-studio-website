@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@media all and (max-width: 768px) {
+	 .container {
+		padding: 5%;
+	}
+
+	nav,
+	.button-item1 {
+		display: none;
+	}
+
+}
