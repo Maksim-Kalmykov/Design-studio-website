@@ -1198,6 +1198,10 @@
 	margin-right: 1%;
 }
 
+.contacts__title-icon_item:hover {
+	cursor: pointer;
+}
+
 .map {
 	margin-left: 16.5%;
 	width: 965px;
